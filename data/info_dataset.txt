@@ -1,0 +1,34 @@
+https://www.kaggle.com/datasets/mhassansaboor/uber-stocks-dataset-2025
+Uber Stocks Dataset 2025
+UBER stocks dataset from 2019 to 2025
+About Dataset
+🚗 Uber Stock Data (2019-2025)
+📌 Dataset Overview
+This dataset contains historical stock data for Uber Technologies Inc. (UBER) from May 10, 2019, to February 5, 2025. It includes essential stock market indicators such as opening price, closing price, trading volume, and adjusted close prices.
+
+This dataset can be useful for:
+
+📊 Exploratory Data Analysis (EDA)
+🤖 Machine Learning & Time-Series Forecasting
+📈 Stock Market Trend Analysis
+📂 Data Summary
+Column Name	Description
+🗓 Date	The trading date
+💲 Open	Opening stock price
+🔼 High	Highest stock price of the day
+🔽 Low	Lowest stock price of the day
+🔄 Close	Closing stock price
+🎯 Adj Close	Adjusted closing price (dividend & split adjusted)
+📦 Volume	Number of shares traded
+🔥 Why Use This Dataset?
+Provides a long-term view of Uber's stock performance
+Suitable for time-series forecasting and trading strategy development
+Ideal for data visualization and trend analysis
+🛠️ Usage Ideas
+Predict future stock prices using LSTM, ARIMA, or Prophet models 📡
+Analyze the impact of external factors (e.g., economic news, earnings reports) 📢
+Compare Uber’s stock trends with competitors like Lyft & Tesla ⚖️
+📎 License
+This dataset is publicly available for educational and research purposes.
+
+🚀 Happy Coding!
