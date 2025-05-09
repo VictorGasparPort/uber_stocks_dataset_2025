@@ -17,14 +17,14 @@ uber_stocks_dataset_2025/
 │
 ├── sql/
 │   ├── advanced_queries/       # Consultas SQL avançadas
-│   ├── optmization_examples/   # Exemplos de otimização em SQL
+│   ├── optimization_examples/   # Exemplos de otimização em SQL
 │   ├── simple_queries/         # Consultas SQL simples
 │   └── table_creation_scripts/ # Scripts de criação de tabelas
 │
 ├── streamlit/                  # Aplicações interativas em Streamlit
 │
 ├── .gitignore
-├── requirements.md
+├── requirements.txt
 ├── LICENSE
 └── README.md
 ```
